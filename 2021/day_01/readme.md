@@ -35,6 +35,7 @@ For example, suppose you had the following report:
 269
 260
 263
+
 This report indicates that, scanning outward from the submarine, the sonar sweep
 found depths of 199, 200, 208, 210, and so on.
 
@@ -56,6 +57,7 @@ In the example above, the changes are as follows:
 269 (increased)
 260 (decreased)
 263 (increased)
+
 In this example, there are 7 measurements that are larger than the previous
 measurement.
 
