@@ -2,7 +2,7 @@
 
 ## About Advent of Code
 
-[https://adventofcode.com](Advent of code) is daily challenge comprised of 2 puzzles
+[Advent of Code](https://adventofcode.com) is daily challenge comprised of 2 puzzles
 which can be solved any way necessary in any langauge, standard
 or homebrew.
 
