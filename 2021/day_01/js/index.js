@@ -25,4 +25,4 @@ INPUT.forEach((n, i, a) => {
   }
 });
 
-console.log(increases);
+console.log("solution 2: ", increases);
